@@ -1,4 +1,4 @@
-]## Hi there 👋
+## Hi there 👋
 
 I'm Alesia, a Computer Science student at Babeș-Bolyai University in Cluj-Napoca.
 
